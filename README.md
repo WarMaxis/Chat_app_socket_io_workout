@@ -4,7 +4,9 @@ Little workout with socket.io - simple chat application that can send messages t
 
 Check this on __[https://warmaxis.github.io/Chat_app_socket_io_workout/](https://warmaxis.github.io/Chat_app_socket_io_workout/)__ (but server is local so app won't be working)
 
-Workout coded by __[Michał Milanowski](https://www.linkedin.com/in/michalmilanowski/)__ but __all right reserved to Piotr Konowrocki, K2 Internet S.A.__ _(details in README_ORIGINAL.md)_
+Workout coded by __[Michał Milanowski](https://www.linkedin.com/in/michalmilanowski/)__ but __all right reserved to Piotr Konowrocki, K2 Internet S.A.__
+
+_(details about this practice in README_ORIGINAL.md)_
 
 ## Used technologies in this project:
 
